@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Orange",
+        "calories": 47,
+        "protein": 0.9,
+        "carbs": 12,
+        "fats": 0.1,
+        "sugar": 9.4,
+        "fiber": 2.4,
+        "origin": "Various regions including Florida, California, and Mediterranean countries",
+        "cholesterol": "None",
+        "benefits": "Oranges are rich in vitamin C, fiber, and antioxidants. They may boost immune function, support skin health, and aid in digestion."
+    }
+]
